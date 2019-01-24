@@ -9,7 +9,7 @@ twitter_username: username
 github_username: EDUARDOCHAMORRO
 
 # Build settings
-markdown: kramdown #redcarpet
+markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
