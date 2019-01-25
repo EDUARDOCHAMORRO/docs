@@ -3,7 +3,7 @@ title: Eduardo Chamorro Docs
 email: eduardochamorromartin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Eduardo Chamorro Documentation
-baseurl: "/docs/index.html" # the subpath of your site, e.g. /blog/
+baseurl: "/docs/" # the subpath of your site, e.g. /blog/
 url: "http://eduardochamorro.github.io/" # the base hostname & protocol for your site
 twitter_username: username
 github_username: EDUARDOCHAMORRO
