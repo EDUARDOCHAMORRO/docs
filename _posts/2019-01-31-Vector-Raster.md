@@ -38,17 +38,22 @@ categories: ini
 ----
 ![](vector-raster/1.jpg)
 ----
+
 **Diference between PPI and Resolution**
 ![](vector-raster/2.jpg)
 ----
+
 **Quality based on pixel density**
 ![](vector-raster/3.jpg)
 ----
+
 **Diference between RGB VS SRGB**
 ![](vector-raster/4.jpg)
 ----
+
 ![](vector-raster/5.jpg)
 ----
+
 **File formats quality vs weight**
 ![](vector-raster/6.jpg)
 ----

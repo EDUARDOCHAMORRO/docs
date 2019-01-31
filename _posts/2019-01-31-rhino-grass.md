@@ -24,17 +24,28 @@ categories: ini
         * [ Rhinoceros 3D - Nurbs](https://www.youtube.com/watch?v=SXReLvfCA_Y)
 
 **PLUGINS TO INSTALL**
+
 * [BASIC PLUGIN SET](rhino-grass/scripts/plugins.rar)
+
 * [ADVANCED PLUGIN SET](rhino-grass/scripts/plugins-advanced.rar)
 
+
 **CLASS EXAMPLE rhino-rhino-grass/grass/scripts**
+
 * [SIMPLE GEOMETRY SCRIPT](rhino-grass/scripts/01-Basic.gh)- [RHINO FILE](rhino-grass/scripts/01-Basic.3dm)
+
 * [LISTS SCRIPT](rhino-grass/scripts/02-Listas.gh)
+
 * [GEOMETRY LISTS SCRIPT](rhino-grass/scripts/03-Geometria-Lists.gh)
+
 * [SPIRAL BASE SCRIPT](rhino-grass/scripts/04-Grow-Scale-RotateSurface.gh)
+
 * [DISPLACE GEOMETRY SCRIPT](rhino-grass/scripts/05-DisplaceGeometryConect.gh)
+
 * [EXTRUSION DISTANCE SCRIPT](rhino-grass/scripts/06-ExtrusionDistance.gh)
+
 * [LIVING HINGE SCRIPT](rhino-grass/scripts/07-ParametricHinge.gh)
+
 * [PRESSFIT SCRIPT](rhino-grass/scripts/08-PressFit.gh)
 
 ### rhino-grass/grassHOPPER CLASS
