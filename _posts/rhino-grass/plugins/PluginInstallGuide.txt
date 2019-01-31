@@ -1,0 +1,21 @@
+Some Grasshopper plugins need to be installed by the end user as they are dependent on the user’s profile.
+Below are the instructions for installing them and links to the most common plugins that users can install themselves.
+
+Instructions:
+1. Open Rhino 
+2. In the Command Line Type: Grasshopper
+3. Go to FILE/Special Folders
+4. Copy the plugin files(.ghusers)from the provided folder or your download from food4rhino and paste them in the UserObjects folder.
+5. Copy the plugin files(.gha , .dll, etc)from the provided folder or your download from food4rhino and paste them in the Components Folders
+6. Some plugin have also an .exe or .php file ( just install it as a normal program installer)
+7. Some plugins have also a .rhi in that case trow that one to the rhino viewport
+8. Some plugins have also a .gh in that case trow that one to the grasshopper viewport
+5. Close the folder
+6. Launch Grasshopper and your plugins should be available!
+
+
+P.D.: In case your plugins are not available you need to unlock them by:
+Right-click on the file and choose Properties from the context menu.
+You should see a dialog that looks like the image at the bottom of this page.
+Click the Unblock button.
+Click on OK and try again.
