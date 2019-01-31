@@ -34,56 +34,56 @@ categories: ini
 * [STEP Files](https://en.wikipedia.org/wiki/ISO_10303-21)
 
 **Diference between Raster and vector**
-![](vector-raster/0.jpg)
+![](/docs/assets/vector-raster/0.jpg)
 ----
 ![](vector-raster/1.jpg)
 ----
 
 **Diference between PPI and Resolution**
-![](vector-raster/2.jpg)
+![](/docs/assets/vector-raster/2.jpg)
 ----
 
 **Quality based on pixel density**
-![](vector-raster/3.jpg)
+![](/docs/assets/vector-raster/3.jpg)
 ----
 
 **Diference between RGB VS SRGB**
-![](vector-raster/4.jpg)
+![](/docs/assets/vector-raster/4.jpg)
 ----
 
-![](vector-raster/5.jpg)
+![](/docs/assets/vector-raster/5.jpg)
 ----
 
 **File formats quality vs weight**
-![](vector-raster/6.jpg)
+![](/docs/assets/vector-raster/6.jpg)
 ----
 
 ### Photoshop - Raster basic setup
-![](vector-raster/01.jpg)
+![](/docs/assets/vector-raster/01.jpg)
 ----
-![](vector-raster/02.jpg)
+![](/docs/assets/vector-raster/02.jpg)
 ----
-![](vector-raster/03.jpg)
+![](/docs/assets/vector-raster/03.jpg)
 ----
-![](vector-raster/04.jpg)
+![](/docs/assets/vector-raster/04.jpg)
 ----
-![](vector-raster/05.jpg)
+![](/docs/assets/vector-raster/05.jpg)
 ----
-![](vector-raster/06.jpg)
+![](/docs/assets/vector-raster/06.jpg)
 ----
-![](vector-raster/07.jpg)
+![](/docs/assets/vector-raster/07.jpg)
 ----
-![](vector-raster/08.jpg)
+![](/docs/assets/vector-raster/08.jpg)
 ----
-![](vector-raster/09.jpg)
+![](/docs/assets/vector-raster/09.jpg)
 ----
-![](vector-raster/10.jpg)
+![](/docs/assets/vector-raster/10.jpg)
 ----
-![](vector-raster/11.jpg)
+![](/docs/assets/vector-raster/11.jpg)
 ----
-![](vector-raster/12.jpg)
+![](/docs/assets/vector-raster/12.jpg)
 ----
-![](vector-raster/13.jpg)
+![](/docs/assets/vector-raster/13.jpg)
 ----
-![](vector-raster/14.jpg)
+![](/docs/assets/vector-raster/14.jpg)
 ----

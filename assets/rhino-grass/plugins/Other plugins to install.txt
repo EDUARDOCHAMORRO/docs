@@ -1,0 +1,10 @@
+Other plugins to install
+
+
+https://www.food4rhino.com/app/kangaroo-physics  (install version 2.42 and Kangaroo Physics 0.099)
+https://github.com/oberbichler/Bowerbird/releases/tag/v0.6.3
+https://www.food4rhino.com/app/fabtools
+https://www.food4rhino.com/app/lunchbox
+https://www.food4rhino.com/app/heteroptera
+http://www.giuliopiacentino.com/weaverbird/
+https://www.food4rhino.com/app/mesh

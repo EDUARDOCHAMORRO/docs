@@ -25,53 +25,53 @@ categories: ini
 
 **PLUGINS TO INSTALL**
 
-* [BASIC PLUGIN SET](rhino-grass/scripts/plugins.rar)
+* [BASIC PLUGIN SET](/docs/assets/rhino-grass/scripts/plugins.rar)
 
-* [ADVANCED PLUGIN SET](rhino-grass/scripts/plugins-advanced.rar)
+* [ADVANCED PLUGIN SET](/docs/assets/rhino-grass/scripts/plugins-advanced.rar)
 
 
 **CLASS EXAMPLE rhino-rhino-grass/grass/scripts**
 
-* [SIMPLE GEOMETRY SCRIPT](rhino-grass/scripts/01-Basic.gh)- [RHINO FILE](rhino-grass/scripts/01-Basic.3dm)
+* [SIMPLE GEOMETRY SCRIPT](/docs/assets/rhino-grass/scripts/01-Basic.gh)- [RHINO FILE](/docs/assets/rhino-grass/scripts/01-Basic.3dm)
 
-* [LISTS SCRIPT](rhino-grass/scripts/02-Listas.gh)
+* [LISTS SCRIPT](/docs/assets/rhino-grass/scripts/02-Listas.gh)
 
-* [GEOMETRY LISTS SCRIPT](rhino-grass/scripts/03-Geometria-Lists.gh)
+* [GEOMETRY LISTS SCRIPT](/docs/assets/rhino-grass/scripts/03-Geometria-Lists.gh)
 
-* [SPIRAL BASE SCRIPT](rhino-grass/scripts/04-Grow-Scale-RotateSurface.gh)
+* [SPIRAL BASE SCRIPT](/docs/assets/rhino-grass/scripts/04-Grow-Scale-RotateSurface.gh)
 
-* [DISPLACE GEOMETRY SCRIPT](rhino-grass/scripts/05-DisplaceGeometryConect.gh)
+* [DISPLACE GEOMETRY SCRIPT](/docs/assets/rhino-grass/scripts/05-DisplaceGeometryConect.gh)
 
-* [EXTRUSION DISTANCE SCRIPT](rhino-grass/scripts/06-ExtrusionDistance.gh)
+* [EXTRUSION DISTANCE SCRIPT](/docs/assets/rhino-grass/scripts/06-ExtrusionDistance.gh)
 
-* [LIVING HINGE SCRIPT](rhino-grass/scripts/07-ParametricHinge.gh)
+* [LIVING HINGE SCRIPT](/docs/assets/rhino-grass/scripts/07-ParametricHinge.gh)
 
-* [PRESSFIT SCRIPT](rhino-grass/scripts/08-PressFit.gh)
+* [PRESSFIT SCRIPT](/docs/assets/rhino-grass/scripts/08-PressFit.gh)
 
-### rhino-grass/grassHOPPER CLASS
-![](rhino-grass/grass/0000.jpg)
+### RHINOCEROS/GRASSHOPPER CLASS
+![](/docs/assets/rhino-grass/grass/0000.jpg)
 ----
-![](rhino-grass/grass/000.jpg)
+![](/docs/assets/rhino-grass/grass/000.jpg)
 ----
-![](rhino-grass/grass/00.jpg)
+![](/docs/assets/rhino-grass/grass/00.jpg)
 ----
-![](rhino-grass/grass/0.jpg)
+![](/docs/assets/rhino-grass/grass/0.jpg)
 ----
-![](rhino-grass/grass/1.jpg)
+![](/docs/assets/rhino-grass/grass/1.jpg)
 ----
-![](rhino-grass/grass/2.jpg)
+![](/docs/assets/rhino-grass/grass/2.jpg)
 ----
-![](rhino-grass/grass/3.jpg)
+![](/docs/assets/rhino-grass/grass/3.jpg)
 ----
-![](rhino-grass/grass/4.jpg)
+![](/docs/assets/rhino-grass/grass/4.jpg)
 ----
-![](rhino-grass/grass/04.jpg)
+![](/docs/assets/rhino-grass/grass/04.jpg)
 ----
-![](rhino-grass/grass/5.jpg)
+![](/docs/assets/rhino-grass/grass/5.jpg)
 ----
-![](rhino-grass/grass/6.jpg)
+![](/docs/assets/rhino-grass/grass/6.jpg)
 ----
-![](rhino-grass/grass/7.jpg)
+![](/docs/assets/rhino-grass/grass/7.jpg)
 ----
 *
 
@@ -81,32 +81,33 @@ categories: ini
 
 *
 ### SIMPLE GEOMETRY EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/01-Basic.gh)
-![](rhino-grass/grass/8.jpg)
+[Download script example here](/docs/assets/rhino-grass/scripts/01-Basic.gh)
 ----
-![](rhino-grass/grass/9.jpg)
+![](/docs/assets/rhino-grass/grass/8.jpg)
 ----
-![](rhino-grass/grass/10.jpg)
+![](/docs/assets/rhino-grass/grass/9.jpg)
 ----
-![](rhino-grass/grass/11.jpg)
+![](/docs/assets/rhino-grass/grass/10.jpg)
 ----
-![](rhino-grass/grass/12.jpg)
+![](/docs/assets/rhino-grass/grass/11.jpg)
 ----
-![](rhino-grass/grass/13.jpg)
+![](/docs/assets/rhino-grass/grass/12.jpg)
 ----
-![](rhino-grass/grass/14.jpg)
+![](/docs/assets/rhino-grass/grass/13.jpg)
 ----
-![](rhino-grass/grass/15.jpg)
+![](/docs/assets/rhino-grass/grass/14.jpg)
 ----
-![](rhino-grass/grass/16.jpg)
+![](/docs/assets/rhino-grass/grass/15.jpg)
 ----
-![](rhino-grass/grass/17.jpg)
+![](/docs/assets/rhino-grass/grass/16.jpg)
 ----
-![](rhino-grass/grass/151.jpg)
+![](/docs/assets/rhino-grass/grass/17.jpg)
 ----
-![](rhino-grass/grass/152.jpg)
+![](/docs/assets/rhino-grass/grass/151.jpg)
 ----
-![](rhino-grass/grass/171.jpg)
+![](/docs/assets/rhino-grass/grass/152.jpg)
+----
+![](/docs/assets/rhino-grass/grass/171.jpg)
 ----
 *
 
@@ -116,16 +117,17 @@ categories: ini
 
 *
 ### LISTS EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/02-Listas.gh)
-![](rhino-grass/grass/40.jpg)
+[Download script example here](/docs/assets/rhino-grass/scripts/02-Listas.gh)
 ----
-![](rhino-grass/grass/41.jpg)
+![](/docs/assets/rhino-grass/grass/40.jpg)
 ----
-![](rhino-grass/grass/42.jpg)
+![](/docs/assets/rhino-grass/grass/41.jpg)
 ----
-![](rhino-grass/grass/43.jpg)
+![](/docs/assets/rhino-grass/grass/42.jpg)
 ----
-![](rhino-grass/grass/44.jpg)
+![](/docs/assets/rhino-grass/grass/43.jpg)
+----
+![](/docs/assets/rhino-grass/grass/44.jpg)
 ----
 *
 
@@ -135,14 +137,15 @@ categories: ini
 
 *
 ### GEOMETRY LISTS EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/03-Geometria-Lists.gh)
-![](rhino-grass/grass/36.jpg)
+[Download script example here](/docs/assets/rhino-grass/scripts/03-Geometria-Lists.gh)
 ----
-![](rhino-grass/grass/37.jpg)
+![](/docs/assets/rhino-grass/grass/36.jpg)
 ----
-![](rhino-grass/grass/38.jpg)
+![](/docs/assets/rhino-grass/grass/37.jpg)
 ----
-![](rhino-grass/grass/39.jpg)
+![](/docs/assets/rhino-grass/grass/38.jpg)
+----
+![](/docs/assets/rhino-grass/grass/39.jpg)
 ----
 *
 
@@ -153,18 +156,19 @@ categories: ini
 *
 
 ### SPIRAL BASE EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/04-Grow-Scale-RotateSurface.gh)
-![](rhino-grass/grass/30.jpg)
+[Download script example here](/docs/assets/rhino-grass/scripts/04-Grow-Scale-RotateSurface.gh)
 ----
-![](rhino-grass/grass/31.jpg)
+![](/docs/assets/rhino-grass/grass/30.jpg)
 ----
-![](rhino-grass/grass/32.jpg)
+![](/docs/assets/rhino-grass/grass/31.jpg)
 ----
-![](rhino-grass/grass/33.jpg)
+![](/docs/assets/rhino-grass/grass/32.jpg)
 ----
-![](rhino-grass/grass/34.jpg)
+![](/docs/assets/rhino-grass/grass/33.jpg)
 ----
-![](rhino-grass/grass/35.jpg)
+![](/docs/assets/rhino-grass/grass/34.jpg)
+----
+![](/docs/assets/rhino-grass/grass/35.jpg)
 ----
 *
 
@@ -175,19 +179,19 @@ categories: ini
 *
 
 ### DISPLACE GEOMETRY EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/05-DisplaceGeometryConect.gh)
-
-![](rhino-grass/grass/45.jpg)
+[Download script example here](/docs/assets/rhino-rhino-grass/grass/scripts/05-DisplaceGeometryConect.gh)
 ----
-![](rhino-grass/grass/46.jpg)
+![](/docs/assets/rhino-grass/grass/45.jpg)
 ----
-![](rhino-grass/grass/47.jpg)
+![](/docs/assets/rhino-grass/grass/46.jpg)
 ----
-![](rhino-grass/grass/48.jpg)
+![](/docs/assets/rhino-grass/grass/47.jpg)
 ----
-![](rhino-grass/grass/49.jpg)
+![](/docs/assets/rhino-grass/grass/48.jpg)
 ----
-![](rhino-grass/grass/50.jpg)
+![](/docs/assets/rhino-grass/grass/49.jpg)
+----
+![](/docs/assets/rhino-grass/grass/50.jpg)
 ----
 *
 
@@ -198,22 +202,23 @@ categories: ini
 *
 
 ### EXTRUSION DISTANCE EXAMPLE SCRIPT
-[Download script example here](rhino-rhino-grass/grass/scripts/06-ExtrusionDistance.gh)
-![](rhino-grass/grass/51.jpg)
+[Download script example here](/docs/assets/rhino-grass/scripts/06-ExtrusionDistance.gh)
 ----
-![](rhino-grass/grass/52.jpg)
+![](/docs/assets/rhino-grass/grass/51.jpg)
 ----
-![](rhino-grass/grass/53.jpg)
+![](/docs/assets/rhino-grass/grass/52.jpg)
 ----
-![](rhino-grass/grass/54.jpg)
+![](/docs/assets/rhino-grass/grass/53.jpg)
 ----
-![](rhino-grass/grass/55.jpg)
+![](/docs/assets/rhino-grass/grass/54.jpg)
 ----
-![](rhino-grass/grass/56.jpg)
+![](/docs/assets/rhino-grass/grass/55.jpg)
 ----
-![](rhino-grass/grass/57.jpg)
+![](/docs/assets/rhino-grass/grass/56.jpg)
 ----
-![](rhino-grass/grass/58.jpg)
+![](/docs/assets/rhino-grass/grass/57.jpg)
 ----
-![](rhino-grass/grass/59.jpg)
+![](/docs/assets/rhino-grass/grass/58.jpg)
+----
+![](/docs/assets/rhino-grass/grass/59.jpg)
 ----
