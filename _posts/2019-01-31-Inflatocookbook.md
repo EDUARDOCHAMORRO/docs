@@ -9,5 +9,5 @@ Hi, this is a list of all the best documents I found on inflatables for architec
 
 Here's a list of papers to dive in to this air world:
 
-* [PDF Inflatocoobook MIT](inflatocookbook/inflato-splitpages.pdf)
-* [Grasshopper-Kangaroo Script](inflatocookbook/inflation.gh)
+* [PDF Inflatocoobook MIT](/docs/assets/inflatocookbook/inflato-splitpages.pdf)
+* [Grasshopper-Kangaroo Script](/docs/assets/inflatocookbook/inflation.gh)
